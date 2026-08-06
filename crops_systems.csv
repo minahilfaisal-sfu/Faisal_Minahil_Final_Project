@@ -1,0 +1,33 @@
+crop_system_id,crop_name,cultivar,orientation,bia_system,temp_min,temp_max,dli_min,dli_max,hum_min,hum_max,yield_kg_m2,water_l_kg,energy_kwh_kg,ghg_kg_kg,co2_uptake_kg_kg,market_value_cad_kg
+1,Leafy Greens,Butterhead,Horizontal,Raised-Beds,18,22,14,16,50,70,7,80,0.5,0.4,0.082575,15
+2,Leafy Greens,Butterhead,Horizontal,Greenhouse,18,22,14,16,60,80,40,40,3,0.7,0.082575,15
+3,Leafy Greens,Butterhead,Vertical,Vertical Farm,18,22,14,16,50,70,311,9.1,10,0.98,0.082575,15
+4,Leafy Greens,Romaine,Horizontal,Raised-Beds,20,24,14,16,50,70,8,90,0.5,0.4,0.09909,12
+5,Leafy Greens,Romaine,Horizontal,Greenhouse,20,24,14,16,60,80,45,45,3,0.7,0.09909,12
+6,Leafy Greens,Romaine,Vertical,Vertical Farm,20,24,14,16,50,70,330,10,11,1,0.09909,12
+7,Tomato,Roma,Horizontal,Raised-Beds,22,26,22,30,60,75,6,110,0.5,0.5,0.09909,4
+8,Tomato,Roma,Horizontal,Greenhouse,22,26,22,30,60,75,60,70,5,0.8,0.09909,4
+9,Tomato,Roma,Vertical,Vertical Farm,22,26,22,30,60,75,65,35,20,1.5,0.09909,4
+10,Tomato,Beefsteak,Horizontal,Raised-Beds,20,26,22,30,60,75,5.5,120,0.5,0.5,0.082575,4.5
+11,Tomato,Beefsteak,Horizontal,Greenhouse,20,26,22,30,60,75,55,80,5,0.8,0.082575,4.5
+12,Tomato,Beefsteak,Vertical,Vertical Farm,20,26,22,30,60,75,60,40,22,1.6,0.082575,4.5
+13,Tomato,Cherry,Horizontal,Raised-Beds,22,27,22,30,60,75,5,100,0.5,0.5,0.13212000000000002,6
+14,Tomato,Cherry,Horizontal,Greenhouse,22,27,22,30,60,75,50,65,5,0.8,0.13212000000000002,6
+15,Tomato,Cherry,Vertical,Vertical Farm,22,27,22,30,60,75,55,35,20,1.5,0.13212000000000002,6
+16,Macroalgae,Brown algae,Horizontal,Tank,10,18,3,10,70,90,20,5,2,0.3,0.19267499999999999,20
+17,Microalgae,Spirulina,Horizontal,Tank,30,35,10,20,70,90,4,3,3,1,0.367,40
+18,Strawberries,Albion,Horizontal,Raised-Beds,18,24,12,20,60,80,1.5,150,0.5,0.5,0.16515000000000002,10
+19,Strawberries,Albion,Horizontal,Greenhouse,18,24,12,20,60,80,6,90,5,0.9,0.16515000000000002,10
+20,Strawberries,Albion,Vertical,Vertical Farm,18,24,12,20,60,80,8,50,18,1.6,0.16515000000000002,10
+21,Culinary Herbs,Basil,Horizontal,Raised-Beds,20,30,12,26,50,70,3,70,0.5,0.4,0.16515000000000002,30
+22,Culinary Herbs,Basil,Horizontal,Greenhouse,20,30,12,26,50,70,8,35,3,0.7,0.16515000000000002,30
+23,Culinary Herbs,Basil,Vertical,Vertical Farm,20,30,12,26,50,70,20,20,12,1.2,0.16515000000000002,30
+24,Culinary Herbs,Cilantro,Horizontal,Raised-Beds,18,24,20,28,50,70,2,60,0.5,0.4,0.13212000000000002,20
+25,Culinary Herbs,Cilantro,Horizontal,Greenhouse,18,24,20,28,50,70,6,30,3,0.7,0.13212000000000002,20
+26,Culinary Herbs,Cilantro,Vertical,Vertical Farm,18,24,20,28,50,70,15,18,10,1.2,0.13212000000000002,20
+27,Microgreens,Broccoli,Horizontal,Greenhouse,18,22,10,15,40,60,300,20,4,1,0.13212000000000002,45.9
+28,Microgreens,Broccoli,Vertical,Vertical Farm,18,22,10,15,40,60,490,17,3.3,3.2,0.13212000000000002,45.9
+29,Mushrooms,Blue oyster,Horizontal,Greenhouse,18,24,0.5,2,85,95,50,30,2,0.6,0.1468,12
+30,Mushrooms,Blue oyster,Vertical,Vertical Farm,18,24,0.5,2,85,95,60,25,6,0.8,0.1468,12
+31,Potatoes,Russet,Horizontal,Raised-Beds,15,20,12,20,60,80,4,130,0.5,0.3,0.36333,2.5
+32,Carrots,Nantes,Horizontal,Raised-Beds,16,21,8,14,60,80,5,70,0.5,0.3,0.19818,3

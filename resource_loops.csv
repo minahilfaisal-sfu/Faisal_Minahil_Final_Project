@@ -1,0 +1,18 @@
+resource_loop_id,source,tech,output_type,recovery_yield_frac,space_m2,energy_kwh,energy_unit,category,annual_cost_cad,carbon_factor,carbon_unit,embodied_carbon
+1,Organic waste,Vermicomposting,Compost,0.4,10,0.02,kWh/kg/year,Amendment,1000,0.25,kgCO2e/kg,50
+2,Organic waste,Vermicomposting,Liquid fertilizer,0.3,10,0.02,kWh/kg/year,Amendment,1000,0.4,kgCO2e/kg,50
+3,Organic waste,Anaerobic digester,Biogas,3.6,30,0.4,kWh/kg/year,Energy,6000,0.2,kgCO2e/kWh,400
+4,Organic waste,Anaerobic digester,Digestate,0.9,30,0.4,kWh/kg/year,Amendment,6000,0.4,kgCO2e/kg,400
+5,Organic waste,Black soldier fly,Protein,0.1,1,0.08,kWh/kg/year,Amendment,2000,3,kgCO2e/kg,208.3
+6,Organic waste,Black soldier fly,Fertilizer,0.5,1,0.08,kWh/kg/year,Amendment,2000,0.4,kgCO2e/kg,208.3
+7,Greywater,Filtration(BioGill),Treated water,0.8,15,0.5,kWh/m3/year,Water,2600,0.4,kgCO2e/m3,233.3
+8,Greywater,Struvite recovery,Fertilizer,0.8,15,0.3,kWh/m3/year,Amendment,3000,0.4,kgCO2e/kg,250
+9,Greywater,Struvite recovery,Treated water,0.8,15,0.3,kWh/m3/year,Water,3000,0.4,kgCO2e/m3,250
+10,Blackwater,Membrane bioreactor,Treated water,0.9,15,1.5,kWh/m3/year,Water,5000,0.5,kgCO2e/m3,480
+11,Rain,Filtration(BioGill),Treated water,0.8,15,0.3,kWh/m3/year,Water,1600,0.4,kgCO2e/m3,233.3
+12,Internal Heat Gain,HRV / heat exchanger,Heat,1,4,0.1,kWh/m2/year,Energy,1000,0.2,kgCO2e/kWh,100
+13,Organic waste,Vermicomposting,Compost,0.4,10,1,kWh/kg/year,Amendment,1000,0.25,kgCO2e/kg,50
+14,Organic waste,Anaerobic digester,Biogas,3.6,30,40,kWh/kg/year,Energy,6000,0.2,kgCO2e/kWh,400
+15,Organic waste,Black soldier fly treatment,Larvae,0.5,1,0.3,kWh/kg/year,Amendment,2000,0.4,kgCO2e/kg,208.3
+16,Organic waste,Biochar pyrolysis,Biochar,0.3,3,10,kWh/kg/year,Amendment,,,,
+17,Greywater,Membrane bioreactor,Treated water,0.8,15,0.4,kWh/m3/year,Water,5000,0.5,kgCO2e/m3,480
