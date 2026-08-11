@@ -27,7 +27,7 @@
 
 ---
 
-## Possible Future Work
+## Possible Future Work / Limitations
 
 Items to revisit given more time:
 
